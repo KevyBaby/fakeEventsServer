@@ -1,89 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Call Of Duty LAN Party",
-    "location": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "date":"2020/06/22"
+    "name": "some comment",
+    "postId": 1
   },
   {
     "id": 2,
-    "name": "Fredrick's Birthday Party",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "location": {
-      "street": "Victor Plains",
-      "suite": "Suite 879",
-      "city": "Wisokyburgh",
-      "zipcode": "90566-7771",
-      "geo": {
-        "lat": "-43.9509",
-        "lng": "-34.4618"
-      }
-    },
-    "date":"2020/06/22"
-    
-  },
-  {
-    "id": 3,
-    "name": "Clementine's Retirement Party",
-    "username": "Samantha",
-    "email": "Nathan@yesenia.net",
-    "location": {
-      "street": "Douglas Extension",
-      "suite": "Suite 847",
-      "city": "McKenziehaven",
-      "zipcode": "59590-4157",
-      "geo": {
-        "lat": "-68.6102",
-        "lng": "-47.0653"
-      }
-    },
-    "date":"2020/06/22"
-   
-  },
-  {
-    "id": 4,
-    "name": "Patricia's Babay Shower",
-    "username": "Karianne",
-    "email": "Julianne.OConner@kory.org",
-    "location": {
-      "street": "Hoeger Mall",
-      "suite": "Apt. 692",
-      "city": "South Elvis",
-      "zipcode": "53919-4257",
-      "geo": {
-        "lat": "29.4572",
-        "lng": "-164.2990"
-      }
-    },
-    "date":"2020/06/22"
-    
-  },
-  {
-    "id": 10,
-    "name": "Jubillee Networking Seminar",
-    "username": "Moriah.Stanton",
-    "email": "Rey.Padberg@karina.biz",
-    "location": {
-      "street": "Kattie Turnpike",
-      "suite": "Suite 198",
-      "city": "Lebsackbury",
-      "zipcode": "31428-2261",
-      "geo": {
-        "lat": "-38.2386",
-        "lng": "57.2232"
-      }
-    },
- "date":"2020/06/22"
-   
+    "name": "some comment",
+    "postId": 1
   }
 ]
